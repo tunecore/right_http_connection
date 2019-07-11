@@ -42,7 +42,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency('rake')
   spec.add_development_dependency('rspec', "~> 2.3")
-  spec.add_development_dependency('cucumber', "~> 0.8")
+  spec.add_development_dependency('cucumber', "~> 1.3")
   spec.add_development_dependency('flexmock', "~> 0.8.11")
   spec.add_development_dependency('trollop', "~> 1.16")
 
